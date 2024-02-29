@@ -1,0 +1,8 @@
+repos:
+- repo: local
+  hooks:
+  - id: run-python-script
+    name: Run python run-python-script
+    entry: python recalculate_index.py 
+    language: python 
+    pass_filenames: false
