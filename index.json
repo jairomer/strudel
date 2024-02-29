@@ -1,0 +1,64 @@
+{
+    "songs": [
+        {
+            "name": "evergoing_monotonic_lullaby",
+            "path": "https://raw.githubusercontent.com/jairomer/strudel/master//evergoing_monotonic_lullaby.js"
+        },
+        {
+            "name": "golf-rolf",
+            "path": "https://raw.githubusercontent.com/jairomer/strudel/master//golf-rolf.js"
+        },
+        {
+            "name": "belldub-chilled-down",
+            "path": "https://raw.githubusercontent.com/jairomer/strudel/master//belldub-chilled-down.js"
+        },
+        {
+            "name": "chop-strudel-as-remix",
+            "path": "https://raw.githubusercontent.com/jairomer/strudel/master//chop-strudel-as-remix.js"
+        },
+        {
+            "name": "swiming-super-mario-world",
+            "path": "https://raw.githubusercontent.com/jairomer/strudel/master//swiming-super-mario-world.js"
+        },
+        {
+            "name": "index.j",
+            "path": "https://raw.githubusercontent.com/jairomer/strudel/master//index.json"
+        },
+        {
+            "name": "waa2-chilled-down",
+            "path": "https://raw.githubusercontent.com/jairomer/strudel/master//waa2-chilled-down.js"
+        },
+        {
+            "name": "drum-bassline-chords",
+            "path": "https://raw.githubusercontent.com/jairomer/strudel/master//drum-bassline-chords.js"
+        },
+        {
+            "name": "waa2",
+            "path": "https://raw.githubusercontent.com/jairomer/strudel/master//waa2.js"
+        },
+        {
+            "name": "metro",
+            "path": "https://raw.githubusercontent.com/jairomer/strudel/master//metro.js"
+        },
+        {
+            "name": "belldub",
+            "path": "https://raw.githubusercontent.com/jairomer/strudel/master//belldub.js"
+        },
+        {
+            "name": "festival-of-fingers-3",
+            "path": "https://raw.githubusercontent.com/jairomer/strudel/master//festival-of-fingers-3.js"
+        },
+        {
+            "name": "arpoon-chilled-down",
+            "path": "https://raw.githubusercontent.com/jairomer/strudel/master//arpoon-chilled-down.js"
+        },
+        {
+            "name": "jux-und-tollerei",
+            "path": "https://raw.githubusercontent.com/jairomer/strudel/master//jux-und-tollerei.js"
+        },
+        {
+            "name": "visco-drum",
+            "path": "https://raw.githubusercontent.com/jairomer/strudel/master//visco-drum.js"
+        }
+    ]
+}
