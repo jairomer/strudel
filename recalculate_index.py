@@ -6,7 +6,7 @@ BASE_URL = "https://raw.githubusercontent.com/jairomer/strudel/master/"
 INDEX_FILE = "index.json"
 
 # Assumming here that all songs are javascript files.
-song_files = [f for f in os.listdir() if ".js" in f ]
+song_files = [f for f in os.listdir() if ".js" in f and not ".json" in f ]
 
 try:
     os.remove(INDEX_FILE)

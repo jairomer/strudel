@@ -5,8 +5,8 @@
             "path": "https://raw.githubusercontent.com/jairomer/strudel/master//evergoing_monotonic_lullaby.js"
         },
         {
-            "name": "golf_rolf",
-            "path": "https://raw.githubusercontent.com/jairomer/strudel/master//golf_rolf.js"
+            "name": "golf-rolf",
+            "path": "https://raw.githubusercontent.com/jairomer/strudel/master//golf-rolf.js"
         },
         {
             "name": "belldub-chilled-down",
@@ -19,10 +19,6 @@
         {
             "name": "swiming-super-mario-world",
             "path": "https://raw.githubusercontent.com/jairomer/strudel/master//swiming-super-mario-world.js"
-        },
-        {
-            "name": "index.j",
-            "path": "https://raw.githubusercontent.com/jairomer/strudel/master//index.json"
         },
         {
             "name": "waa2-chilled-down",
