@@ -21,6 +21,10 @@
             "path": "https://raw.githubusercontent.com/jairomer/strudel/master//swiming-super-mario-world.js"
         },
         {
+            "name": "acid-experiment",
+            "path": "https://raw.githubusercontent.com/jairomer/strudel/master//acid-experiment.js"
+        },
+        {
             "name": "waa2-chilled-down",
             "path": "https://raw.githubusercontent.com/jairomer/strudel/master//waa2-chilled-down.js"
         },
