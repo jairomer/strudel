@@ -49,6 +49,10 @@
             "path": "https://raw.githubusercontent.com/jairomer/strudel/master//festival-of-fingers-3.js"
         },
         {
+            "name": "acid-experiment-filtered",
+            "path": "https://raw.githubusercontent.com/jairomer/strudel/master//acid-experiment-filtered.js"
+        },
+        {
             "name": "arpoon-chilled-down",
             "path": "https://raw.githubusercontent.com/jairomer/strudel/master//arpoon-chilled-down.js"
         },
