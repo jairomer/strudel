@@ -31,3 +31,14 @@ $: n("<[4@2 4] [5@2 5] [6@2 6] [5@2 5]>*2")
   .s("gm_acoustic_bass")
 
 $: s("bd*2, [ ~ <sd cp> ], [ ~ hh ]*2 ").bank("RolandTR909")
+
+
+// Same length
+//$: note("c!2 [eb, <g a bb a>]").sound("piano")
+
+// Share the same time
+//$: note("c*2 [eb, <g a bb a>]").s("piano")
+
+// Single "press" that occupies 2 times
+//$: n("c@2 [eb, <g a bb a>]").s("piano")
+
